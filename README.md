@@ -22,9 +22,9 @@ A simple task management application that allows users to keep track of their ta
 - Store tasks in an SQLite database
 - User-friendly GUI with Tkinter
 
-![To-Do List]()
+![To-Do List](project-img/1.png)
 
-🔗 **[View Code]()**
+🔗 **[View Code](project/1.py)**
 
 ---
 
@@ -37,9 +37,9 @@ A contact management system to store and retrieve contact details efficiently.
 - Store names, phone numbers, and emails in an SQLite database
 - User-friendly interface with Tkinter
 
-![Contact Book]()
+![Contact Book](project-img/2.png)
 
-🔗 **[View Code]()**
+🔗 **[View Code](project/2.py)**
 
 ---
 
@@ -52,9 +52,9 @@ An application to manage student records, including their personal details and a
 - Display all records in a Tkinter table
 - Simple and intuitive user interface
 
-![Student Records]()
+![Student Records](project-img/3.png)
 
-🔗 **[View Code]()**
+🔗 **[View Code](project/3.py)**
 
 ---
 
@@ -64,9 +64,9 @@ This project is currently under development.
 #### Features:
 - Functionality not yet specified
 
-![Discord Tracker]()
+![Discord Tracker](project-img/4.png)
 
-🔗 **[View Code]()**
+🔗 **[View Code](project/4.py)**
 
 ## How to Use
 To run any of these projects on your local machine:
